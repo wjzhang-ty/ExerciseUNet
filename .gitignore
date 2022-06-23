@@ -1,0 +1,5 @@
+nohup.out
+**/__pycache__
+__pycache__
+imgs/*.jpg
+*.pyc
